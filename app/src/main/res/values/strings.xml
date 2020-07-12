@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">"I\'m In NY"</string>
+    <string-array name="popular_points">
+        <item>Statue of Liberty</item>
+        <item>Empire State</item>
+        <item>Brooklyn Bridge</item>
+        <item>Times Square</item>
+        <item>Rockefeller Center</item>
+        <item>World Trade Center</item>
+        <item>Madison Square Garden</item>
+        <item>Roosevelt Island</item>
+    </string-array>
+    <string-array name="interests">
+        <item>hospital</item>
+        <item>library</item>
+        <item>museum</item>
+        <item>restaurant</item>
+        <item>university</item>
+    </string-array>
+</resources>
