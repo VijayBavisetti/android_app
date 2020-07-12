@@ -1,4 +1,4 @@
-# Project Overview
+# Capstone MOOC for Android App Development by Vanderbilt University on www.coursera.org
 
 Application allows user to select one specific site among 
 different popular sites (like statue of liberty, empire state, manhattan, etc.
